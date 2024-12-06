@@ -1,2 +1,12 @@
 name: Jose Robledo
 markdown: kramdown
+highlighter: rouge
+
+url: "https://jorobledo.github.io/"
+repository: "https://github.com/jorobledo/jorobledo.github.io"
+
+author:
+  avatar : "https://avatars.githubusercontent.com/u/46170369?v=4"
+  name : "Jose Robledo"
+  bio : "Physicist - AI Consultant"
+  email : "j.robledo@fz-juelich.de"
